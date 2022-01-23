@@ -188,12 +188,12 @@ header#cabecalho2{
 header#cabecalho{
     border-bottom: 1px rgba(55, 55, 56, 0.233) solid;
     height: 500px;
-    background:url("../_backgrounds/fundo10.png")
+    background:url("../backgrounds/fundo10.png")
 }
 header#cabecalho1{
     border-bottom: 1px rgba(55, 55, 56, 0.233) solid;
     height: 350px;
-    background:url("../_backgrounds/fundo10.png")
+    background:url("../backgrounds/fundo10.png")
 }
 header#cabecalho h1{
     font-size: 45px;
